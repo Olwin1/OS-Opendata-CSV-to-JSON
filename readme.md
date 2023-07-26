@@ -1,0 +1,2 @@
+# OS Opendata CSV to JSON
+This simple python script converts the CSV files provided by OS maps to JSON files with the coordinates converted into latlong with a distance that gives a rough estimate to how large the named location is.  Street names and Postcodes are also ommitted in the conversion.  
